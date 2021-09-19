@@ -1,3 +1,5 @@
 # Hello-world
 Testing
-I am learning github and now i am testing it.
+learning git.
+now, i am trying to add some text .haha 
+Is that a jojo reference
